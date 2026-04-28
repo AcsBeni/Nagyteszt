@@ -1,0 +1,50 @@
+@host = http://localhost 
+@port = 3000/api
+@url = {{host}}:{{port}}
+
+### Get all plants
+
+GET {{url}}/plants
+Content-Type: application/json
+
+### Get plant by id
+
+GET {{url}}/plants/1
+Content-Type: application/json
+
+
+### insert plants
+
+POST {{url}}/plants
+Content-Type: application/json
+
+{
+    "name":"planti",
+    "species":"grass",
+    "water_interval_days": 10
+}
+
+
+### update plants
+
+PATCH  {{url}}/plants/1
+Content-Type: application/json
+
+{
+    "name":"changedplant",
+    "species":"grass",
+    "water_interval_days": 10
+}
+
+### Delete plant by id
+
+DELETE  {{url}}/plants/2
+Content-Type: application/json
+
+//WATERING-------------------------------------------------------
+
+### Get watering by plant_id
+
+GET {{url}}/plants/1/watering
+Content-Type: application/json
+

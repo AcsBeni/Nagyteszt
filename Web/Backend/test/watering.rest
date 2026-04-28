@@ -1,0 +1,22 @@
+@host = http://localhost 
+@port = 3000/api
+@url = {{host}}:{{port}}
+
+
+### insert watering
+
+POST {{url}}/watering
+Content-Type: application/json
+
+{
+    "plant_id":"planti",
+    "date_watered": 2017-06-15,
+    "amount_ml": 50,
+    "notes":"Watered it, it looked quite withered"
+}
+
+### insert watering
+
+DELETE  {{url}}/watering/1
+Content-Type: application/json
+

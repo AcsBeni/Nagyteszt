@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">name</th>
+      <th scope="col">species</th>
+      <th scope="col">water_interval_days</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let plant of plants; index as i" >
+    <tr >
+      <th >{{i+1}}</th>
+      <td>{{plant.name}}</td>
+      <td>{{plant.species}}</td>
+      <td>{{plant.water_interval_days}}</td>
+    </tr>
+    
+  </tbody>
+</table>
+</body>
+</html>

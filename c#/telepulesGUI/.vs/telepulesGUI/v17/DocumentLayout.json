@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|c:\\users\\acsbenjamin\\nagyteszt\\c#\\telepulesgui\\telepulesgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|solutionrelative:telepulesgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|c:\\users\\acsbenjamin\\nagyteszt\\c#\\telepulesgui\\telepulesgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|solutionrelative:telepulesgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|c:\\users\\acsbenjamin\\nagyteszt\\c#\\telepulesgui\\telepulesgui\\telepules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|solutionrelative:telepulesgui\\telepules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|c:\\users\\acsbenjamin\\nagyteszt\\c#\\telepulesgui\\telepulesgui\\fajlio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D8D6412-5108-4746-A7A8-9A9A0250031B}|telepulesGUI\\telepulesGUI.csproj|solutionrelative:telepulesgui\\fajlio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "telepulesGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\Form1.cs",
+              "RelativeToolTip": "telepulesGUI\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwFcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:15:51.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "telepulesGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "telepulesGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:11:47.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FajlIo.cs",
+              "DocumentMoniker": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\FajlIo.cs",
+              "RelativeDocumentMoniker": "telepulesGUI\\FajlIo.cs",
+              "ToolTip": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\FajlIo.cs",
+              "RelativeToolTip": "telepulesGUI\\FajlIo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:11:06.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "telepules.cs",
+              "DocumentMoniker": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\telepules.cs",
+              "RelativeDocumentMoniker": "telepulesGUI\\telepules.cs",
+              "ToolTip": "C:\\Users\\acsbenjamin\\Nagyteszt\\c#\\telepulesGUI\\telepulesGUI\\telepules.cs",
+              "RelativeToolTip": "telepulesGUI\\telepules.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:10:41.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

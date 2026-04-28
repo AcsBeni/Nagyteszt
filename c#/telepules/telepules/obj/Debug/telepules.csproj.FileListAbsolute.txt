@@ -1,0 +1,8 @@
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\bin\Debug\telepules.exe.config
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\bin\Debug\telepules.exe
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\bin\Debug\telepules.pdb
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\obj\Debug\telepules.csproj.AssemblyReference.cache
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\obj\Debug\telepules.csproj.CoreCompileInputs.cache
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\obj\Debug\telepules.exe
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\obj\Debug\telepules.pdb
+C:\Users\acsbenjamin\Nagyteszt\c#\telepules\telepules\obj\Debug\telepules.exe.config

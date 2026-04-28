@@ -1,0 +1,8 @@
+@host = http://localhost 
+@port = 3000/api
+@url = {{host}}:{{port}}
+
+### Get all stats
+
+GET {{url}}/plants/stats
+Content-Type: application/json
